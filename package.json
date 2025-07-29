@@ -1,0 +1,16 @@
+{
+  "name": "Smart-CI",
+  "displayName": "Smart CI",
+  "description": "Help Your CI Project More Smart",
+  "publisher": "hi-inbeom",
+  "icon": "image/addon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js"
+}
